@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac 프로필](https://your-custom-url.onrender.com/api/generate_badge?boj=makon)](https://solved.ac/makon)
+[![Solved.ac 프로필](https://your-custom-url.onrender.com/api/generate_badge?boj={makon})](https://solved.ac/{makon})
 
 [![mazandi profile](https://mazandi.herokuapp.com/api?handle=makon&theme=warm)](https://solved.ac/profile/makon)
