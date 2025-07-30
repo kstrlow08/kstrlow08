@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **kstrlow08/kstrlow08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Solved.ac 프로필](https://your-custom-url.onrender.com/api/generate_badge?boj=makon)](https://solved.ac/makon)
 
 [![mazandi profile](https://mazandi.herokuapp.com/api?handle=makon&theme=warm)](https://solved.ac/profile/makon)
