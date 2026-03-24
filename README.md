@@ -12,7 +12,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=makon)](https://solved.ac/makon)
-
-[![mazandi profile](https://mazandi.herokuapp.com/api?handle=makon&theme=warm)](https://solved.ac/profile/makon)
